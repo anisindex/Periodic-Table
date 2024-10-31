@@ -1,0 +1,40 @@
+
+h1 { background-color: #f9c313;
+        width: 400px;
+        line-height: 50px;
+        border-radius: 10px;
+        box-shadow: 0px 5px 15px black;
+}
+
+
+
+td{ height: 50px;
+    width: 50px;
+    text-align: center; 
+    border-radius: 5px;
+    box-shadow: 0px 5px 10px black;
+}
+
+.number {   line-height: 0px;
+            font-size: 12px;   
+            font-weight: bold;
+
+}
+
+.name { line-height: 0px;
+        font-weight: bold;
+
+}
+
+.color1 {background-color: rgb(77, 250, 57)}
+    
+.color2 {background-color: rgb(252, 25, 25)}
+
+.color3 {background-color: rgb(252, 145, 5)}
+
+.color4 {background-color: rgb(232, 216, 72)}
+
+.color5 {background-color: rgb(72, 134, 189)}
+
+.color6 {background-color: rgb(117, 105, 250)}
+
